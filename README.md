@@ -1,402 +1,241 @@
-<!-- Header Section with Advanced Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=👋+Welcome+to+Sankalp+Prajapati's+GitHub;🔗+Blockchain+|+🚀+Web3+|+🤖+AI%2FML+Enthusiast;🏆+Smart+India+Hackathon+2026+Participant;💡+Building+Decentralized+Future;🌟+Full+Stack+Developer+|+Security+Researcher" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=220&section=header&text=Hey%2C%20I'm%20Sankalp!%20%F0%9F%91%8B&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20DSA%20Grinder%20%F0%9F%94%A5&descAlignY=60&descSize=18&descColor=c0caf5" />
 </div>
 
-<br>
-
 <div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/sankalp-stack?style=social&label=Follow)](https://github.com/sankalp-stack?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/sankalp-stack?style=social&label=Star)](https://github.com/sankalp-stack?tab=repositories)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://twitter.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankalp@example.com)
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&repeat=true&width=750&lines=🤖+Building+AI+%26+GenAI+powered+products;🌐+Full+Stack+%7C+React+%7C+Next.js+%7C+Node.js;📊+Grinding+LeetCode+every+single+day+💪;🏆+SIH+2026+Finalist+%7C+BEL+Blockchain+Track;🚀+Open+to+Internships+%26+Collaborations!" alt="Typing SVG" />
 </div>
 
----
-
-## 🎯 About Me
-
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=sankalp-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-I'm a **passionate Full Stack Developer** and **Blockchain Architect** with deep expertise in Web3 technologies, decentralized systems, and AI/ML applications. Currently building innovative solutions at the intersection of **blockchain**, **identity management**, and **smart contracts**.
-
-```javascript
-const sankalp = {
-  💼 Role: "Full Stack Developer & Blockchain Architect",
-  🎓 Focus: "Decentralized Systems & Smart Contracts",
-  🏆 Achievement: "SIH 2026 Participant - Blockchain Track",
-  🔗 Specialization: ["DIDs", "NFTs", "RBAC", "Smart Contracts"],
-  🧠 Philosophy: "Code is poetry; Blockchain is truth"
-};
-```
-
-<br>
+<br/>
 
 ---
 
-## 🔥 Current Project: SIH 2026
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
-### 🔗 Blockchain-Based Secure Platform for Identity, Access Control & Digital Asset Management
+<img align="right" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-**Problem Statement ID:** 26125 | **Organization:** Bharat Electronics Limited
+```python
+class Sankalp:
+    name       = "Sankalp Prajapati"
+    role       = ["AI/ML Engineer 🤖", "Full Stack Dev 🌐"]
+    currently  = "Grinding DSA for top companies 🔥"
+    stack      = {
+      "ai_ml"     : ["Python", "Scikit-learn",
+                     "LangChain", "RAG", "GenAI"],
+      "frontend"  : ["React", "Next.js", "Tailwind"],
+      "backend"   : ["Node.js", "Express", "FastAPI"],
+      "database"  : ["MongoDB", "PostgreSQL"]
+    }
+    hackathon  = "SIH 2026 @ Bharat Electronics Ltd."
+    fun_fact   = "I debug with print() & I'm proud 😄"
 
-#### 🎯 Key Features:
-- **Decentralized Identity (DIDs):** W3C-compliant self-sovereign identities
-- **NFT-Based Assets:** ERC-721 non-fungible token ownership tracking
-- **Smart Contract RBAC:** Role-based access control enforcement
-- **Immutable Audit Trail:** Complete blockchain-based logging
-- **Zero-Trust Architecture:** Cryptographic verification at every step
-
-#### 🛠️ Tech Stack:
+    def goals(self):
+        return [
+            "Land a great internship 🎯",
+            "Build impactful AI products 🚀",
+            "Master DSA & system design 📚"
+        ]
 ```
-Smart Contracts: Solidity (Hardhat) | Ethereum/Polygon
-Backend: Node.js + Express + ethers.js
-Frontend: React + Next.js + MetaMask Integration
-Storage: IPFS + MongoDB (Indexing)
-Standards: W3C DID, ERC-721, ERC-1155
-```
 
-#### 📈 Project Timeline:
-```
-Phase 1 (Weeks 1-2): ✅ Smart Contract Development
-Phase 2 (Weeks 3-4): ⏳ RBAC & Access Control
-Phase 3 (Weeks 5-6): ⏳ Backend API Integration
-Phase 4 (Weeks 7-8): ⏳ Frontend & Wallet Integration
-Phase 5 (Weeks 9-10): ⏳ Security Audits
-Phase 6 (Week 11-12): ⏳ Deployment & Presentation
-```
+<br clear="right"/>
+
+### ⚡ Quick Facts
+
+- 🔭 Working on **AI/ML projects + SIH 2026 Blockchain Platform**
+- 🌱 Currently mastering **DSA, GenAI & RAG pipelines**
+- 💬 Ask me about **Python, React, Node.js, Machine Learning**
+- 📫 Reach me at **[sankalpprajapati52@gmail.com](mailto:sankalpprajapati52@gmail.com)**
+- 🎯 Goal: **Crack top product companies through DSA + projects**
+- ⚡ Fun fact: **The best code is the code that works!**
 
 ---
 
-## 🛠️ Advanced Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### 🌐 **Blockchain & Web3**
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
+### 🤖 AI / ML & Data Science
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
-### 💻 **Languages & Core**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+### 🌐 Frontend
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-### 🎨 **Frontend Technologies**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+### ⚙️ Backend & Databases
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
-### 🗄️ **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🤖 **AI & Machine Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### 🔧 **Development Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### ☁️ **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+### 🔧 Tools & DevOps
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 GitHub Analytics & Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 📈 Overall Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sankalp-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9)
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sankalp-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&border_radius=10" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=sankalp-stack&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=7aa2f7&ring=bb9af7&fire=f7768e&currStreakLabel=7aa2f7&border_radius=10" />
 
-### 🔝 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalp-stack&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&count_private=true)
+  <br/><br/>
 
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=sankalp-stack&theme=tokyonight&hide_border=true&background=0D1117)
-
-### 📊 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sankalp-stack&theme=tokyo-night&hide_border=true&bg_color=0D1117)
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalp-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&langs_count=8&border_radius=10" />
 
 </div>
 
 ---
 
-## 🏆 Featured Projects & Portfolio
+## 🏆 GitHub Trophies
 
-### 🌟 **1. Blockchain Identity Platform (SIH 2026)**
-- **Status:** 🚀 In Development
-- **Problem:** Centralized identity systems create security risks and single points of failure
-- **Solution:** Decentralized, blockchain-based identity + NFT asset management + RBAC
-- **Tech:** Solidity · Hardhat · Ethereum/Polygon · React · Node.js · IPFS
-- **Features:**
-  - W3C DID implementation for self-sovereign identity
-  - ERC-721 NFT-based digital asset ownership
-  - Smart contract RBAC enforcement
-  - Immutable audit trail
-  - Zero-trust architecture
-- **Repository:** [SIH 2026 Blockchain Platform](https://github.com/sankalp-stack/sih-2026-blockchain-platform)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sankalp-stack&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" />
+</div>
 
 ---
 
-### 🛍️ **2. ShopNest - Full Stack E-Commerce**
-- **Status:** ✅ Completed
-- **Description:** Production-ready MERN stack e-commerce platform with payment integration
-- **Tech:** MongoDB · Express · React · Node.js · Stripe
-- **Features:**
-  - User authentication & authorization
-  - Product catalog with advanced filtering
-  - Shopping cart & checkout
-  - Order management system
-  - Admin dashboard
-  - Payment integration (Stripe)
-- **Repository:** [ShopNest MERN](https://github.com/sankalp-stack/shopnest-mern)
+## ⚔️ DSA Grind
 
----
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/sankalp-stack?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10&width=500" />
+</div>
 
-### 🎬 **3. Movie Recommendation System**
-- **Status:** ✅ Completed
-- **Description:** ML-based recommendation engine using collaborative filtering
-- **Tech:** Python · Scikit-learn · Pandas · NumPy · Jupyter
-- **Features:**
-  - Collaborative filtering algorithm
-  - Content-based recommendations
-  - Model evaluation & metrics
-  - Data visualization
-- **Repository:** [Movie Recommendation System](https://github.com/sankalp-stack/movie-recommendation-system)
-
----
-
-### 🤖 **4. AI Chatbot with LangChain**
-- **Status:** ✅ Completed
-- **Description:** LLM-powered conversational AI with memory & context awareness
-- **Tech:** Python · LangChain · OpenAI · FAISS · Jupyter
-- **Features:**
-  - Multi-turn conversations
-  - Context memory management
-  - Vector similarity search
-  - Document Q&A capability
-- **Repository:** [AI Chatbot LangChain](https://github.com/sankalp-stack/ai-chatbot-langchain)
-
----
-
-### 🧠 **5. Sankalp AI Assistant**
-- **Status:** ✅ Completed
-- **Description:** Custom AI assistant for automation & productivity
-- **Tech:** Python · LLM APIs · Automation
-- **Features:**
-  - Natural language processing
-  - Task automation
-  - Multi-platform integration
-- **Repository:** [Sankalp AI](https://github.com/sankalp-stack/sankalp-ai)
-
----
-
-## 🎓 Skills & Expertise
-
-### 🔗 **Blockchain & Web3**
-- Smart Contract Development (Solidity)
-- Decentralized Identity (DIDs, VCs)
-- NFT Architecture & Design
-- DeFi Protocols & AMMs
-- Layer 2 Solutions (Polygon, Arbitrum)
-- Ethereum Ecosystem
-
-### 💻 **Full Stack Development**
-- Backend: Node.js, Express, REST APIs, GraphQL
-- Frontend: React, Next.js, Responsive Design
-- Databases: MongoDB, PostgreSQL, Firebase
-- DevOps: Docker, GitHub Actions, Cloud Deployment
-
-### 🤖 **AI & Machine Learning**
-- Deep Learning (TensorFlow, PyTorch)
-- NLP & LLMs (LangChain, OpenAI)
-- Recommendation Systems
-- Data Analysis & Visualization
-- Computer Vision Basics
-
-### 🔐 **Security & Best Practices**
-- Smart Contract Security Auditing
-- Cryptographic Protocols
-- OWASP Top 10 Mitigation
-- Secure Coding Practices
-- Access Control & Authentication
-
----
-
-## 🏅 Achievements & Recognition
-
-- 🏆 **Smart India Hackathon 2026** — Blockchain & Cybersecurity Track
-- 🔗 **Decentralized Identity Pioneer** — Building W3C DID standards
-- 🎯 **Problem Statement Leader** — Bharat Electronics Limited Challenge
-- 🌟 **Open Source Contributor** — Active in blockchain community
-- 💡 **Tech Innovator** — Exploring emerging technologies
-
----
-
-## 📚 Learning & Growth
-
-```javascript
-const currentlyLearning = [
-  "Zero-Knowledge Proofs (ZKPs)",
-  "Advanced Cryptography",
-  "Layer 2 Optimization Techniques",
-  "Cross-Chain Interoperability",
-  "DAO Design Patterns",
-  "Distributed Systems Architecture",
-  "Security Auditing Methodology"
-];
-
-const futureFocus = [
-  "Quantum-Resistant Cryptography",
-  "Multi-Chain Asset Management",
-  "Privacy-Preserving Protocols",
-  "Enterprise Blockchain Solutions",
-  "AI-Powered Smart Contracts"
-];
-```
-
----
-
-## 🚀 Current Roadmap
-
-```
-Q3 2026:
-├─ 🎓 Complete SIH 2026 (College Round → Finals)
-├─ 🔗 Deploy blockchain platform to testnet
-└─ 📚 Security audit & optimization
-
-Q4 2026:
-├─ 🌐 Mainnet deployment
-├─ 📖 Technical documentation & tutorials
-├─ 🤝 Community building & contributions
-└─ 🧪 Advanced feature development
-
-Q1 2027:
-├─ 🔐 Zero-knowledge proof integration
-├─ 💱 Cross-chain bridge implementation
-├─ 📊 Advanced analytics dashboard
-└─ 🌍 Expand to production use cases
-```
-
----
-
-## 💼 Professional Experience
-
-### 🎯 **Skills Summary**
-- **Languages:** JavaScript, TypeScript, Python, Solidity, SQL, Bash
-- **Frameworks:** React, Next.js, Node.js, Express, Hardhat
-- **Databases:** MongoDB, PostgreSQL, Firebase, Redis
-- **Cloud:** AWS, Google Cloud, Vercel, Heroku
-- **Tools:** Git, Docker, Postman, GitHub, VS Code, Figma
-
-### 🌟 **Key Competencies**
-- Full Stack Web Development
-- Blockchain & Smart Contracts
-- Machine Learning & AI
-- System Design & Architecture
-- Problem Solving & Algorithm Design
-- Team Leadership & Collaboration
-
----
-
-## 📫 Connect & Collaborate
+<br/>
 
 <div align="center">
 
-### Let's Connect!
+| 🏷️ Platform | 📌 Topics in Focus | 🎯 Goal |
+|:---:|:---:|:---:|
+| 💛 LeetCode | Arrays, Trees, DP, Graphs | Consistent daily solving |
+| 🔵 Codeforces | Greedy, Binary Search, Math | Improve CF rating |
+| 📘 GFG | Core CS + Interview Prep | Placement readiness |
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankalp@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sankalp-prajapati)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sankalp_stack)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+</div>
+
+> 🔥 *"One problem a day keeps the rejection away."* — Every DSA grinder ever
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sankalp-stack/sankalp-stack/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sankalp-stack/sankalp-stack/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sankalp-stack/sankalp-stack/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalp-stack&theme=tokyo-night&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=f7768e&area=true&hide_border=true&radius=8" />
+</div>
+
+---
+
+## 🏆 SIH 2026 — Featured Project
+
+<table align="center">
+<tr>
+<td width="55%">
+
+### 🔗 Blockchain Identity & Access Control Platform
+> **PS #26125** | **Org:** Bharat Electronics Limited (BEL)
+
+Building a **secure decentralized platform** for identity, access & digital asset management:
+
+- 🆔 **Decentralized Identifiers (DIDs)** — W3C standard
+- 🎟️ **NFT-based asset tracking** (ERC-721)
+- 🔐 **Smart Contract RBAC** access control
+- 📜 Immutable **audit trail** on-chain
+- 🛡️ Zero-Trust security architecture
+
+**My contribution →** Full Stack + AI/ML layer
+
+</td>
+<td width="45%">
+
+```
+📦 Tech Stack
+├── Contracts : Solidity + Hardhat
+├── Chain     : Ethereum / Polygon
+├── Backend   : Node.js + ethers.js
+├── Frontend  : React + Next.js
+├── Storage   : IPFS + MongoDB
+└── Standards : W3C DID, ERC-721
+
+📅 Timeline
+✅ Phase 1 — Smart Contract Dev
+⏳ Phase 2 — RBAC & Access Control
+⏳ Phase 3 — Backend API Layer
+⏳ Phase 4 — Frontend + Wallets
+⏳ Phase 5 — Security Audit
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/sankalp-prajapati-603769306/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/sankalp-stack)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:sankalpprajapati52@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankalp-stack)
 
-### 💬 **Open To**
-- 🤝 Collaborations on blockchain & Web3 projects
-- 🎓 Mentoring & knowledge sharing
-- 💼 Full-time opportunities in Web3
-- 🔬 Research partnerships in decentralized systems
-- 🌍 Contributing to open-source blockchain projects
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sankalp-stack&style=for-the-badge&color=7aa2f7&labelColor=1a1b27&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 📞 Quick Stats
-
 <div align="center">
 
-| Metric | Value |
-|--------|-------|
-| 🔧 **Active Projects** | 5+ |
-| 🌟 **GitHub Stars** | 50+ |
-| 👥 **Followers** | Growing 📈 |
-| 💻 **Languages** | 7+ |
-| 🏆 **Hackathons** | SIH 2026 |
-| ⏰ **Coding Hours** | 1000+ |
-
-</div>
-
----
-
-## 🎨 Design Philosophy
-
-```
-"Code is not just about functionality;
-it's about crafting elegant solutions to complex problems.
-Every line should tell a story of innovation and precision."
-```
-
----
-
-<div align="center">
-
-### 🌐 Open Source & Community
-
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge)
-![Community](https://img.shields.io/badge/Community-Driven-blue?style=for-the-badge)
-![Blockchain](https://img.shields.io/badge/Blockchain-Pioneer-purple?style=for-the-badge)
-
----
-
-### 💡 Quote of the Day
-
-> "The best way to predict the future is to invent it." — **Alan Kay**
-
----
-
-### 👀 Profile Views
-
-![Views](https://komarev.com/ghpvc/?username=sankalp-stack&color=6366F1&style=for-the-badge&label=Profile+Views)
-
-<br>
-
-**⭐ Don't forget to star my repos if you find them useful!**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Building+the+future+with+code+and+passion+🚀" alt="Closing Quote" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer&animation=twinkling" />
 
 </div>
